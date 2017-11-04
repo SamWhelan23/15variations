@@ -1,0 +1,106 @@
+
+body {
+    padding-left:100px;
+    padding-right:100px;
+    padding-bottom:0px;
+    padding-top:0px;
+}
+
+#we {position:absolute;
+    left: 700px;
+    top: 300px;
+}
+
+#are {position:absolute;
+    left: 100px;
+    top: 1000px;
+}
+
+#still {position:absolute;
+    left: 1200px;
+    top: 2000px;
+}
+
+#still2 {position:absolute;
+    left: 1205px;
+    top: 2005px;
+}
+
+#living {position:absolute;
+    left: 900px;
+    top: 3000px;
+    border: 4px solid black;
+}
+
+#under {position:absolute;
+    left: 200px;
+    top: 4000px;
+}
+
+#under2 {position:absolute;
+    left: 235px;
+    top: 4012px;
+}
+
+#under3 {position:absolute;
+    left: 190px;
+    top: 3995px;
+}
+
+#the {position:absolute;
+    left: 700px;
+    top: 5100px;
+}
+
+#the2 {position:absolute;
+    left: 800px;
+    top: 5000px;
+    border: 1px solid black;
+}
+
+#the3 {position:absolute;
+    left: 900px;
+    top: 4900px;
+}
+
+#reign {position:absolute;
+    left: 300px;
+    top: 6000px;
+}
+
+#reign2 {position:absolute;
+    left: 325px;
+    top: 6000px;
+}
+#of {position:absolute;
+    left: 1100px;
+    top: 7000px;
+    border: 1px solid black;
+}
+
+#of2 {position:absolute;
+    left: 1150px;
+    top: 7050px;
+    border: 2px solid black;
+}
+
+#of3 {position:absolute;
+    left: 1200px;
+    top: 7100px;
+    border: 3px solid black;
+}
+
+#of4 {position:absolute;
+    left: 1250px;
+    top: 7150px;
+    border: 4px solid black;
+}
+
+#logic {position:absolute;
+    left: 400px;
+    top: 8000px;
+}
+
+
+
+

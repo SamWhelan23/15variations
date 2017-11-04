@@ -1,0 +1,1557 @@
+
+body {
+    padding-left:0px;
+    padding-right:0px;
+    padding-bottom:100px;
+    padding-top:100px;
+    background-color: dimgray;
+    margin-left:0px;
+    margin-right:0px;
+    margin-bottom:20px;
+    margin-top:100px;
+}
+
+.greyblock {
+    position:fixed;
+    top:0px;
+    left:0px;
+    z-index: 1;
+    max-width:200%;
+	height:48%;
+   
+}
+
+.greyblock2 {
+    position:fixed;
+    top:360px;
+    left:0px;
+    z-index: 1;
+    max-width:100%;
+	height:200%;
+   
+}
+
+#we {
+    font-family: helveticaneue-ultralight;
+    font-size: 20px;
+    text-align:center;
+    font-weight:lighter;
+    letter-spacing: 10px;
+    line-height: 0px;
+    position:fixed;
+    top:350px;
+    left:300px;
+    text-transform: uppercase;
+    text-decoration:none;
+    color: white
+}
+
+#logic {
+    font-family: helveticaneue-ultralight;
+    font-size: 20px;
+    text-align:center;
+    font-weight:lighter;
+    letter-spacing: 10px;
+    line-height: 0px;
+    position:absolute;
+    top:350px;
+    left:1060px;
+    text-transform: uppercase;
+    text-decoration:none;
+    color: white
+}
+#logic2 {
+    font-family: helveticaneue-ultralight;
+    font-size: 20px;
+    text-align:center;
+    font-weight:lighter;
+    letter-spacing: 10px;
+    line-height: 0px;
+    position:absolute;
+    top:370px;
+    left:1060px;
+    text-transform: uppercase;
+    text-decoration:none;
+    color: white
+}
+
+#logic3 {
+    font-family: helveticaneue-ultralight;
+    font-size: 20px;
+    text-align:center;
+    font-weight:lighter;
+    letter-spacing: 10px;
+    line-height: 0px;
+    position:absolute;
+    top:390px;
+    left:1060px;
+    text-transform: uppercase;
+    text-decoration:none;
+    color: white
+}
+
+#logic4 {
+    font-family: helveticaneue-ultralight;
+    font-size: 20px;
+    text-align:center;
+    font-weight:lighter;
+    letter-spacing: 10px;
+    line-height: 0px;
+    position:absolute;
+    top:410px;
+    left:1060px;
+    text-transform: uppercase;
+    text-decoration:none;
+    color: white
+}
+
+#logic5 {
+    font-family: helveticaneue-ultralight;
+    font-size: 20px;
+    text-align:center;
+    font-weight:lighter;
+    letter-spacing: 10px;
+    line-height: 0px;
+    position:absolute;
+    top:430px;
+    left:1060px;
+    text-transform: uppercase;
+    text-decoration:none;
+    color: white
+}
+
+#logic6 {
+    font-family: helveticaneue-ultralight;
+    font-size: 20px;
+    text-align:center;
+    font-weight:lighter;
+    letter-spacing: 10px;
+    line-height: 0px;
+    position:absolute;
+    top:450px;
+    left:1060px;
+    text-transform: uppercase;
+    text-decoration:none;
+    color: white
+}
+
+#logic7 {
+    font-family: helveticaneue-ultralight;
+    font-size: 20px;
+    text-align:center;
+    font-weight:lighter;
+    letter-spacing: 10px;
+    line-height: 0px;
+    position:absolute;
+    top:470px;
+    left:1060px;
+    text-transform: uppercase;
+    text-decoration:none;
+    color: white
+}
+
+#logic8 {
+    font-family: helveticaneue-ultralight;
+    font-size: 20px;
+    text-align:center;
+    font-weight:lighter;
+    letter-spacing: 10px;
+    line-height: 0px;
+    position:absolute;
+    top:490px;
+    left:1060px;
+    text-transform: uppercase;
+    text-decoration:none;
+    color: white
+}
+
+#logic9 {
+    font-family: helveticaneue-ultralight;
+    font-size: 20px;
+    text-align:center;
+    font-weight:lighter;
+    letter-spacing: 10px;
+    line-height: 0px;
+    position:absolute;
+    top:510px;
+    left:1060px;
+    text-transform: uppercase;
+    text-decoration:none;
+    color: white
+}
+
+#logic10 {
+    font-family: helveticaneue-ultralight;
+    font-size: 20px;
+    text-align:center;
+    font-weight:lighter;
+    letter-spacing: 10px;
+    line-height: 0px;
+    position:absolute;
+    top:530px;
+    left:1060px;
+    text-transform: uppercase;
+    text-decoration:none;
+    color: white
+}
+
+#logic11 {
+    font-family: helveticaneue-ultralight;
+    font-size: 20px;
+    text-align:center;
+    font-weight:lighter;
+    letter-spacing: 10px;
+    line-height: 0px;
+    position:absolute;
+    top:550px;
+    left:1060px;
+    text-transform: uppercase;
+    text-decoration:none;
+    color: white
+}
+
+#logic12 {
+    font-family: helveticaneue-ultralight;
+    font-size: 20px;
+    text-align:center;
+    font-weight:lighter;
+    letter-spacing: 10px;
+    line-height: 0px;
+    position:absolute;
+    top:570px;
+    left:1060px;
+    text-transform: uppercase;
+    text-decoration:none;
+    color: white
+}
+
+#logic13 {
+    font-family: helveticaneue-ultralight;
+    font-size: 20px;
+    text-align:center;
+    font-weight:lighter;
+    letter-spacing: 10px;
+    line-height: 0px;
+    position:absolute;
+    top:590px;
+    left:1060px;
+    text-transform: uppercase;
+    text-decoration:none;
+    color: white
+}
+
+#logic14 {
+    font-family: helveticaneue-ultralight;
+    font-size: 20px;
+    text-align:center;
+    font-weight:lighter;
+    letter-spacing: 10px;
+    line-height: 0px;
+    position:absolute;
+    top:610px;
+    left:1060px;
+    text-transform: uppercase;
+    text-decoration:none;
+    color: white
+}
+
+#logic15 {
+    font-family: helveticaneue-ultralight;
+    font-size: 20px;
+    text-align:center;
+    font-weight:lighter;
+    letter-spacing: 10px;
+    line-height: 0px;
+    position:absolute;
+    top:630px;
+    left:1060px;
+    text-transform: uppercase;
+    text-decoration:none;
+    color: white
+}
+
+#logic16 {
+    font-family: helveticaneue-ultralight;
+    font-size: 20px;
+    text-align:center;
+    font-weight:lighter;
+    letter-spacing: 10px;
+    line-height: 0px;
+    position:absolute;
+    top:650px;
+    left:1060px;
+    text-transform: uppercase;
+    text-decoration:none;
+    color: white
+}
+
+#logic17 {
+    font-family: helveticaneue-ultralight;
+    font-size: 20px;
+    text-align:center;
+    font-weight:lighter;
+    letter-spacing: 10px;
+    line-height: 0px;
+    position:absolute;
+    top:670px;
+    left:1060px;
+    text-transform: uppercase;
+    text-decoration:none;
+    color: white
+}
+
+#logic18 {
+    font-family: helveticaneue-ultralight;
+    font-size: 20px;
+    text-align:center;
+    font-weight:lighter;
+    letter-spacing: 10px;
+    line-height: 0px;
+    position:absolute;
+    top:690px;
+    left:1060px;
+    text-transform: uppercase;
+    text-decoration:none;
+    color: white
+}
+
+#logic19 {
+    font-family: helveticaneue-ultralight;
+    font-size: 20px;
+    text-align:center;
+    font-weight:lighter;
+    letter-spacing: 10px;
+    line-height: 0px;
+    position:absolute;
+    top:710px;
+    left:1060px;
+    text-transform: uppercase;
+    text-decoration:none;
+    color: white
+}
+
+#logic20 {
+    font-family: helveticaneue-ultralight;
+    font-size: 20px;
+    text-align:center;
+    font-weight:lighter;
+    letter-spacing: 10px;
+    line-height: 0px;
+    position:absolute;
+    top:730px;
+    left:1060px;
+    text-transform: uppercase;
+    text-decoration:none;
+    color: white
+}
+
+#logic21 {
+    font-family: helveticaneue-ultralight;
+    font-size: 20px;
+    text-align:center;
+    font-weight:lighter;
+    letter-spacing: 10px;
+    line-height: 0px;
+    position:absolute;
+    top:750px;
+    left:1060px;
+    text-transform: uppercase;
+    text-decoration:none;
+    color: white
+}
+
+#logic22 {
+    font-family: helveticaneue-ultralight;
+    font-size: 20px;
+    text-align:center;
+    font-weight:lighter;
+    letter-spacing: 10px;
+    line-height: 0px;
+    position:absolute;
+    top:770px;
+    left:1060px;
+    text-transform: uppercase;
+    text-decoration:none;
+    color: white
+}
+
+#logic23 {
+    font-family: helveticaneue-ultralight;
+    font-size: 20px;
+    text-align:center;
+    font-weight:lighter;
+    letter-spacing: 10px;
+    line-height: 0px;
+    position:absolute;
+    top:790px;
+    left:1060px;
+    text-transform: uppercase;
+    text-decoration:none;
+    color: white
+}
+
+#logic24 {
+    font-family: helveticaneue-ultralight;
+    font-size: 20px;
+    text-align:center;
+    font-weight:lighter;
+    letter-spacing: 10px;
+    line-height: 0px;
+    position:absolute;
+    top:810px;
+    left:1060px;
+    text-transform: uppercase;
+    text-decoration:none;
+    color: white
+}
+
+#logic25 {
+    font-family: helveticaneue-ultralight;
+    font-size: 20px;
+    text-align:center;
+    font-weight:lighter;
+    letter-spacing: 10px;
+    line-height: 0px;
+    position:absolute;
+    top:830px;
+    left:1060px;
+    text-transform: uppercase;
+    text-decoration:none;
+    color: white
+}
+
+#logic26 {
+    font-family: helveticaneue-ultralight;
+    font-size: 20px;
+    text-align:center;
+    font-weight:lighter;
+    letter-spacing: 10px;
+    line-height: 0px;
+    position:absolute;
+    top:850px;
+    left:1060px;
+    text-transform: uppercase;
+    text-decoration:none;
+    color: white
+}
+
+#logic27 {
+    font-family: helveticaneue-ultralight;
+    font-size: 20px;
+    text-align:center;
+    font-weight:lighter;
+    letter-spacing: 10px;
+    line-height: 0px;
+    position:absolute;
+    top:870px;
+    left:1060px;
+    text-transform: uppercase;
+    text-decoration:none;
+    color: white
+}
+
+#logic28 {
+    font-family: helveticaneue-ultralight;
+    font-size: 20px;
+    text-align:center;
+    font-weight:lighter;
+    letter-spacing: 10px;
+    line-height: 0px;
+    position:absolute;
+    top:890px;
+    left:1060px;
+    text-transform: uppercase;
+    text-decoration:none;
+    color: white
+}
+
+#logic29 {
+    font-family: helveticaneue-ultralight;
+    font-size: 20px;
+    text-align:center;
+    font-weight:lighter;
+    letter-spacing: 10px;
+    line-height: 0px;
+    position:absolute;
+    top:910px;
+    left:1060px;
+    text-transform: uppercase;
+    text-decoration:none;
+    color: white
+}
+
+#logic30 {
+    font-family: helveticaneue-ultralight;
+    font-size: 20px;
+    text-align:center;
+    font-weight:lighter;
+    letter-spacing: 10px;
+    line-height: 0px;
+    position:absolute;
+    top:930px;
+    left:1060px;
+    text-transform: uppercase;
+    text-decoration:none;
+    color: white
+}
+
+#logic31 {
+    font-family: helveticaneue-ultralight;
+    font-size: 20px;
+    text-align:center;
+    font-weight:lighter;
+    letter-spacing: 10px;
+    line-height: 0px;
+    position:absolute;
+    top:950px;
+    left:1060px;
+    text-transform: uppercase;
+    text-decoration:none;
+    color: white
+}
+
+#logic32 {
+    font-family: helveticaneue-ultralight;
+    font-size: 20px;
+    text-align:center;
+    font-weight:lighter;
+    letter-spacing: 10px;
+    line-height: 0px;
+    position:absolute;
+    top:970px;
+    left:1060px;
+    text-transform: uppercase;
+    text-decoration:none;
+    color: white
+}
+
+#logic33 {
+    font-family: helveticaneue-ultralight;
+    font-size: 20px;
+    text-align:center;
+    font-weight:lighter;
+    letter-spacing: 10px;
+    line-height: 0px;
+    position:absolute;
+    top:990px;
+    left:1060px;
+    text-transform: uppercase;
+    text-decoration:none;
+    color: white
+}
+
+#logic34 {
+    font-family: helveticaneue-ultralight;
+    font-size: 20px;
+    text-align:center;
+    font-weight:lighter;
+    letter-spacing: 10px;
+    line-height: 0px;
+    position:absolute;
+    top:1010px;
+    left:1060px;
+    text-transform: uppercase;
+    text-decoration:none;
+    color: white
+}
+
+#logic35 {
+    font-family: helveticaneue-ultralight;
+    font-size: 20px;
+    text-align:center;
+    font-weight:lighter;
+    letter-spacing: 10px;
+    line-height: 0px;
+    position:absolute;
+    top:1030px;
+    left:1060px;
+    text-transform: uppercase;
+    text-decoration:none;
+    color: white
+}
+
+#logic36 {
+    font-family: helveticaneue-ultralight;
+    font-size: 20px;
+    text-align:center;
+    font-weight:lighter;
+    letter-spacing: 10px;
+    line-height: 0px;
+    position:absolute;
+    top:1050px;
+    left:1060px;
+    text-transform: uppercase;
+    text-decoration:none;
+    color: white
+}
+
+#logic37 {
+    font-family: helveticaneue-ultralight;
+    font-size: 20px;
+    text-align:center;
+    font-weight:lighter;
+    letter-spacing: 10px;
+    line-height: 0px;
+    position:absolute;
+    top:1070px;
+    left:1060px;
+    text-transform: uppercase;
+    text-decoration:none;
+    color: white
+}
+
+#logic38 {
+    font-family: helveticaneue-ultralight;
+    font-size: 20px;
+    text-align:center;
+    font-weight:lighter;
+    letter-spacing: 10px;
+    line-height: 0px;
+    position:absolute;
+    top:1090px;
+    left:1060px;
+    text-transform: uppercase;
+    text-decoration:none;
+    color: white
+}
+
+#logic39 {
+    font-family: helveticaneue-ultralight;
+    font-size: 20px;
+    text-align:center;
+    font-weight:lighter;
+    letter-spacing: 10px;
+    line-height: 0px;
+    position:absolute;
+    top:1110px;
+    left:1060px;
+    text-transform: uppercase;
+    text-decoration:none;
+    color: white
+}
+
+#logic40 {
+    font-family: helveticaneue-ultralight;
+    font-size: 20px;
+    text-align:center;
+    font-weight:lighter;
+    letter-spacing: 10px;
+    line-height: 0px;
+    position:absolute;
+    top:1130px;
+    left:1060px;
+    text-transform: uppercase;
+    text-decoration:none;
+    color: white
+}
+
+#logic41 {
+    font-family: helveticaneue-ultralight;
+    font-size: 20px;
+    text-align:center;
+    font-weight:lighter;
+    letter-spacing: 10px;
+    line-height: 0px;
+    position:absolute;
+    top:1150px;
+    left:1060px;
+    text-transform: uppercase;
+    text-decoration:none;
+    color: white
+}
+
+#logic42 {
+    font-family: helveticaneue-ultralight;
+    font-size: 20px;
+    text-align:center;
+    font-weight:lighter;
+    letter-spacing: 10px;
+    line-height: 0px;
+    position:absolute;
+    top:1170px;
+    left:1060px;
+    text-transform: uppercase;
+    text-decoration:none;
+    color: white
+}
+
+#logic43 {
+    font-family: helveticaneue-ultralight;
+    font-size: 20px;
+    text-align:center;
+    font-weight:lighter;
+    letter-spacing: 10px;
+    line-height: 0px;
+    position:absolute;
+    top:1190px;
+    left:1060px;
+    text-transform: uppercase;
+    text-decoration:none;
+    color: white
+}
+
+#logic44 {
+    font-family: helveticaneue-ultralight;
+    font-size: 20px;
+    text-align:center;
+    font-weight:lighter;
+    letter-spacing: 10px;
+    line-height: 0px;
+    position:absolute;
+    top:1210px;
+    left:1060px;
+    text-transform: uppercase;
+    text-decoration:none;
+    color: white
+}
+
+#logic45 {
+    font-family: helveticaneue-ultralight;
+    font-size: 20px;
+    text-align:center;
+    font-weight:lighter;
+    letter-spacing: 10px;
+    line-height: 0px;
+    position:absolute;
+    top:1230px;
+    left:1060px;
+    text-transform: uppercase;
+    text-decoration:none;
+    color: white
+}
+
+#logic46 {
+    font-family: helveticaneue-ultralight;
+    font-size: 20px;
+    text-align:center;
+    font-weight:lighter;
+    letter-spacing: 10px;
+    line-height: 0px;
+    position:absolute;
+    top:1250px;
+    left:1060px;
+    text-transform: uppercase;
+    text-decoration:none;
+    color: white
+}
+
+#logic47 {
+    font-family: helveticaneue-ultralight;
+    font-size: 20px;
+    text-align:center;
+    font-weight:lighter;
+    letter-spacing: 10px;
+    line-height: 0px;
+    position:absolute;
+    top:1270px;
+    left:1060px;
+    text-transform: uppercase;
+    text-decoration:none;
+    color: white
+}
+
+#logic48 {
+    font-family: helveticaneue-ultralight;
+    font-size: 20px;
+    text-align:center;
+    font-weight:lighter;
+    letter-spacing: 10px;
+    line-height: 0px;
+    position:absolute;
+    top:1290px;
+    left:1060px;
+    text-transform: uppercase;
+    text-decoration:none;
+    color: white
+}
+
+#logic49 {
+    font-family: helveticaneue-ultralight;
+    font-size: 20px;
+    text-align:center;
+    font-weight:lighter;
+    letter-spacing: 10px;
+    line-height: 0px;
+    position:absolute;
+    top:1310px;
+    left:1060px;
+    text-transform: uppercase;
+    text-decoration:none;
+    color: white
+}
+
+#logic50 {
+    font-family: helveticaneue-ultralight;
+    font-size: 20px;
+    text-align:center;
+    font-weight:lighter;
+    letter-spacing: 10px;
+    line-height: 0px;
+    position:absolute;
+    top:1330px;
+    left:1060px;
+    text-transform: uppercase;
+    text-decoration:none;
+    color: white
+}
+
+#logic51 {
+    font-family: helveticaneue-ultralight;
+    font-size: 20px;
+    text-align:center;
+    font-weight:lighter;
+    letter-spacing: 10px;
+    line-height: 0px;
+    position:absolute;
+    top:1350px;
+    left:1060px;
+    text-transform: uppercase;
+    text-decoration:none;
+    color: white
+}
+
+#logic52 {
+    font-family: helveticaneue-ultralight;
+    font-size: 20px;
+    text-align:center;
+    font-weight:lighter;
+    letter-spacing: 10px;
+    line-height: 0px;
+    position:absolute;
+    top:1370px;
+    left:1060px;
+    text-transform: uppercase;
+    text-decoration:none;
+    color: white
+}
+
+#logic53 {
+    font-family: helveticaneue-ultralight;
+    font-size: 20px;
+    text-align:center;
+    font-weight:lighter;
+    letter-spacing: 10px;
+    line-height: 0px;
+    position:absolute;
+    top:1390px;
+    left:1060px;
+    text-transform: uppercase;
+    text-decoration:none;
+    color: white
+}
+
+#logic54 {
+    font-family: helveticaneue-ultralight;
+    font-size: 20px;
+    text-align:center;
+    font-weight:lighter;
+    letter-spacing: 10px;
+    line-height: 0px;
+    position:absolute;
+    top:1410px;
+    left:1060px;
+    text-transform: uppercase;
+    text-decoration:none;
+    color: white
+}
+
+#logic55 {
+    font-family: helveticaneue-ultralight;
+    font-size: 20px;
+    text-align:center;
+    font-weight:lighter;
+    letter-spacing: 10px;
+    line-height: 0px;
+    position:absolute;
+    top:1430px;
+    left:1060px;
+    text-transform: uppercase;
+    text-decoration:none;
+    color: white
+}
+
+#logic56 {
+    font-family: helveticaneue-ultralight;
+    font-size: 20px;
+    text-align:center;
+    font-weight:lighter;
+    letter-spacing: 10px;
+    line-height: 0px;
+    position:absolute;
+    top:1450px;
+    left:1060px;
+    text-transform: uppercase;
+    text-decoration:none;
+    color: white
+}
+
+#logic57 {
+    font-family: helveticaneue-ultralight;
+    font-size: 20px;
+    text-align:center;
+    font-weight:lighter;
+    letter-spacing: 10px;
+    line-height: 0px;
+    position:absolute;
+    top:1470px;
+    left:1060px;
+    text-transform: uppercase;
+    text-decoration:none;
+    color: white
+}
+
+#logic58 {
+    font-family: helveticaneue-ultralight;
+    font-size: 20px;
+    text-align:center;
+    font-weight:lighter;
+    letter-spacing: 10px;
+    line-height: 0px;
+    position:absolute;
+    top:1490px;
+    left:1060px;
+    text-transform: uppercase;
+    text-decoration:none;
+    color: white
+}
+
+#logic59 {
+    font-family: helveticaneue-ultralight;
+    font-size: 20px;
+    text-align:center;
+    font-weight:lighter;
+    letter-spacing: 10px;
+    line-height: 0px;
+    position:absolute;
+    top:1510px;
+    left:1060px;
+    text-transform: uppercase;
+    text-decoration:none;
+    color: white
+}
+
+#logic60 {
+    font-family: helveticaneue-ultralight;
+    font-size: 20px;
+    text-align:center;
+    font-weight:lighter;
+    letter-spacing: 10px;
+    line-height: 0px;
+    position:absolute;
+    top:1530px;
+    left:1060px;
+    text-transform: uppercase;
+    text-decoration:none;
+    color: white
+}
+
+#logic61 {
+    font-family: helveticaneue-ultralight;
+    font-size: 20px;
+    text-align:center;
+    font-weight:lighter;
+    letter-spacing: 10px;
+    line-height: 0px;
+    position:absolute;
+    top:1550px;
+    left:1060px;
+    text-transform: uppercase;
+    text-decoration:none;
+    color: white
+}
+
+#logic62 {
+    font-family: helveticaneue-ultralight;
+    font-size: 20px;
+    text-align:center;
+    font-weight:lighter;
+    letter-spacing: 10px;
+    line-height: 0px;
+    position:absolute;
+    top:1570px;
+    left:1060px;
+    text-transform: uppercase;
+    text-decoration:none;
+    color: white
+}
+
+#logic63 {
+    font-family: helveticaneue-ultralight;
+    font-size: 20px;
+    text-align:center;
+    font-weight:lighter;
+    letter-spacing: 10px;
+    line-height: 0px;
+    position:absolute;
+    top:1590px;
+    left:1060px;
+    text-transform: uppercase;
+    text-decoration:none;
+    color: white
+}
+
+#logic64 {
+    font-family: helveticaneue-ultralight;
+    font-size: 20px;
+    text-align:center;
+    font-weight:lighter;
+    letter-spacing: 10px;
+    line-height: 0px;
+    position:absolute;
+    top:1610px;
+    left:1060px;
+    text-transform: uppercase;
+    text-decoration:none;
+    color: white
+}
+
+#logic65 {
+    font-family: helveticaneue-ultralight;
+    font-size: 20px;
+    text-align:center;
+    font-weight:lighter;
+    letter-spacing: 10px;
+    line-height: 0px;
+    position:absolute;
+    top:1630px;
+    left:1060px;
+    text-transform: uppercase;
+    text-decoration:none;
+    color: white
+}
+
+#logic66 {
+    font-family: helveticaneue-ultralight;
+    font-size: 20px;
+    text-align:center;
+    font-weight:lighter;
+    letter-spacing: 10px;
+    line-height: 0px;
+    position:absolute;
+    top:1650px;
+    left:1060px;
+    text-transform: uppercase;
+    text-decoration:none;
+    color: white
+}
+
+#logic67 {
+    font-family: helveticaneue-ultralight;
+    font-size: 20px;
+    text-align:center;
+    font-weight:lighter;
+    letter-spacing: 10px;
+    line-height: 0px;
+    position:absolute;
+    top:1670px;
+    left:1060px;
+    text-transform: uppercase;
+    text-decoration:none;
+    color: white
+}
+
+#logic68 {
+    font-family: helveticaneue-ultralight;
+    font-size: 20px;
+    text-align:center;
+    font-weight:lighter;
+    letter-spacing: 10px;
+    line-height: 0px;
+    position:absolute;
+    top:1690px;
+    left:1060px;
+    text-transform: uppercase;
+    text-decoration:none;
+    color: white
+}
+
+#logic69 {
+    font-family: helveticaneue-ultralight;
+    font-size: 20px;
+    text-align:center;
+    font-weight:lighter;
+    letter-spacing: 10px;
+    line-height: 0px;
+    position:absolute;
+    top:1710px;
+    left:1060px;
+    text-transform: uppercase;
+    text-decoration:none;
+    color: white
+}
+
+#logic70 {
+    font-family: helveticaneue-ultralight;
+    font-size: 20px;
+    text-align:center;
+    font-weight:lighter;
+    letter-spacing: 10px;
+    line-height: 0px;
+    position:absolute;
+    top:1730px;
+    left:1060px;
+    text-transform: uppercase;
+    text-decoration:none;
+    color: white
+}
+
+#logic71 {
+    font-family: helveticaneue-ultralight;
+    font-size: 20px;
+    text-align:center;
+    font-weight:lighter;
+    letter-spacing: 10px;
+    line-height: 0px;
+    position:absolute;
+    top:1750px;
+    left:1060px;
+    text-transform: uppercase;
+    text-decoration:none;
+    color: white
+}
+
+#logic72 {
+    font-family: helveticaneue-ultralight;
+    font-size: 20px;
+    text-align:center;
+    font-weight:lighter;
+    letter-spacing: 10px;
+    line-height: 0px;
+    position:absolute;
+    top:1770px;
+    left:1060px;
+    text-transform: uppercase;
+    text-decoration:none;
+    color: white
+}
+
+#logic73 {
+    font-family: helveticaneue-ultralight;
+    font-size: 20px;
+    text-align:center;
+    font-weight:lighter;
+    letter-spacing: 10px;
+    line-height: 0px;
+    position:absolute;
+    top:1790px;
+    left:1060px;
+    text-transform: uppercase;
+    text-decoration:none;
+    color: white
+}
+
+#logic74 {
+    font-family: helveticaneue-ultralight;
+    font-size: 20px;
+    text-align:center;
+    font-weight:lighter;
+    letter-spacing: 10px;
+    line-height: 0px;
+    position:absolute;
+    top:1810px;
+    left:1060px;
+    text-transform: uppercase;
+    text-decoration:none;
+    color: white
+}
+
+#logic75 {
+    font-family: helveticaneue-ultralight;
+    font-size: 20px;
+    text-align:center;
+    font-weight:lighter;
+    letter-spacing: 10px;
+    line-height: 0px;
+    position:absolute;
+    top:1830px;
+    left:1060px;
+    text-transform: uppercase;
+    text-decoration:none;
+    color: white
+}
+
+#logic76 {
+    font-family: helveticaneue-ultralight;
+    font-size: 20px;
+    text-align:center;
+    font-weight:lighter;
+    letter-spacing: 10px;
+    line-height: 0px;
+    position:absolute;
+    top:1850px;
+    left:1060px;
+    text-transform: uppercase;
+    text-decoration:none;
+    color: white
+}
+
+#logic77 {
+    font-family: helveticaneue-ultralight;
+    font-size: 20px;
+    text-align:center;
+    font-weight:lighter;
+    letter-spacing: 10px;
+    line-height: 0px;
+    position:absolute;
+    top:1870px;
+    left:1060px;
+    text-transform: uppercase;
+    text-decoration:none;
+    color: white
+}
+
+#logic78 {
+    font-family: helveticaneue-ultralight;
+    font-size: 20px;
+    text-align:center;
+    font-weight:lighter;
+    letter-spacing: 10px;
+    line-height: 0px;
+    position:absolute;
+    top:1890px;
+    left:1060px;
+    text-transform: uppercase;
+    text-decoration:none;
+    color: white
+}
+
+#logic79 {
+    font-family: helveticaneue-ultralight;
+    font-size: 20px;
+    text-align:center;
+    font-weight:lighter;
+    letter-spacing: 10px;
+    line-height: 0px;
+    position:absolute;
+    top:1910px;
+    left:1060px;
+    text-transform: uppercase;
+    text-decoration:none;
+    color: white
+}
+
+#logic80 {
+    font-family: helveticaneue-ultralight;
+    font-size: 20px;
+    text-align:center;
+    font-weight:lighter;
+    letter-spacing: 10px;
+    line-height: 0px;
+    position:absolute;
+    top:1930px;
+    left:1060px;
+    text-transform: uppercase;
+    text-decoration:none;
+    color: white
+}
+
+#logic81 {
+    font-family: helveticaneue-ultralight;
+    font-size: 20px;
+    text-align:center;
+    font-weight:lighter;
+    letter-spacing: 10px;
+    line-height: 0px;
+    position:absolute;
+    top:1950px;
+    left:1060px;
+    text-transform: uppercase;
+    text-decoration:none;
+    color: white
+}
+
+#logic82 {
+    font-family: helveticaneue-ultralight;
+    font-size: 20px;
+    text-align:center;
+    font-weight:lighter;
+    letter-spacing: 10px;
+    line-height: 0px;
+    position:absolute;
+    top:1970px;
+    left:1060px;
+    text-transform: uppercase;
+    text-decoration:none;
+    color: white
+}
+
+#logic83 {
+    font-family: helveticaneue-ultralight;
+    font-size: 20px;
+    text-align:center;
+    font-weight:lighter;
+    letter-spacing: 10px;
+    line-height: 0px;
+    position:absolute;
+    top:1990px;
+    left:1060px;
+    text-transform: uppercase;
+    text-decoration:none;
+    color: white
+}
+
+#logic84 {
+    font-family: helveticaneue-ultralight;
+    font-size: 20px;
+    text-align:center;
+    font-weight:lighter;
+    letter-spacing: 10px;
+    line-height: 0px;
+    position:absolute;
+    top:2010px;
+    left:1060px;
+    text-transform: uppercase;
+    text-decoration:none;
+    color: white
+}
+
+#logic85 {
+    font-family: helveticaneue-ultralight;
+    font-size: 20px;
+    text-align:center;
+    font-weight:lighter;
+    letter-spacing: 10px;
+    line-height: 0px;
+    position:absolute;
+    top:2030px;
+    left:1060px;
+    text-transform: uppercase;
+    text-decoration:none;
+    color: white
+}
+
+#logic86 {
+    font-family: helveticaneue-ultralight;
+    font-size: 20px;
+    text-align:center;
+    font-weight:lighter;
+    letter-spacing: 10px;
+    line-height: 0px;
+    position:absolute;
+    top:2050px;
+    left:1060px;
+    text-transform: uppercase;
+    text-decoration:none;
+    color: white
+}
+
+#logic87 {
+    font-family: helveticaneue-ultralight;
+    font-size: 20px;
+    text-align:center;
+    font-weight:lighter;
+    letter-spacing: 10px;
+    line-height: 0px;
+    position:absolute;
+    top:2070px;
+    left:1060px;
+    text-transform: uppercase;
+    text-decoration:none;
+    color: white
+}
+
+#logic88 {
+    font-family: helveticaneue-ultralight;
+    font-size: 20px;
+    text-align:center;
+    font-weight:lighter;
+    letter-spacing: 10px;
+    line-height: 0px;
+    position:absolute;
+    top:2090px;
+    left:1060px;
+    text-transform: uppercase;
+    text-decoration:none;
+    color: white
+}
+
+#logic89 {
+    font-family: helveticaneue-ultralight;
+    font-size: 20px;
+    text-align:center;
+    font-weight:lighter;
+    letter-spacing: 10px;
+    line-height: 0px;
+    position:absolute;
+    top:2110px;
+    left:1060px;
+    text-transform: uppercase;
+    text-decoration:none;
+    color: white
+}
+
+#logic90 {
+    font-family: helveticaneue-ultralight;
+    font-size: 20px;
+    text-align:center;
+    font-weight:lighter;
+    letter-spacing: 10px;
+    line-height: 0px;
+    position:absolute;
+    top:2130px;
+    left:1060px;
+    text-transform: uppercase;
+    text-decoration:none;
+    color: white
+}
+
+#logic91 {
+    font-family: helveticaneue-ultralight;
+    font-size: 20px;
+    text-align:center;
+    font-weight:lighter;
+    letter-spacing: 10px;
+    line-height: 0px;
+    position:absolute;
+    top:2150px;
+    left:1060px;
+    text-transform: uppercase;
+    text-decoration:none;
+    color: white
+}
+
+#logic92 {
+    font-family: helveticaneue-ultralight;
+    font-size: 20px;
+    text-align:center;
+    font-weight:lighter;
+    letter-spacing: 10px;
+    line-height: 0px;
+    position:absolute;
+    top:2170px;
+    left:1060px;
+    text-transform: uppercase;
+    text-decoration:none;
+    color: white
+}
+
+#logic93 {
+    font-family: helveticaneue-ultralight;
+    font-size: 20px;
+    text-align:center;
+    font-weight:lighter;
+    letter-spacing: 10px;
+    line-height: 0px;
+    position:absolute;
+    top:2190px;
+    left:1060px;
+    text-transform: uppercase;
+    text-decoration:none;
+    color: white
+}
+
+#logic94 {
+    font-family: helveticaneue-ultralight;
+    font-size: 20px;
+    text-align:center;
+    font-weight:lighter;
+    letter-spacing: 10px;
+    line-height: 0px;
+    position:absolute;
+    top:2210px;
+    left:1060px;
+    text-transform: uppercase;
+    text-decoration:none;
+    color: white
+}
+
+#logic95 {
+    font-family: helveticaneue-ultralight;
+    font-size: 20px;
+    text-align:center;
+    font-weight:lighter;
+    letter-spacing: 10px;
+    line-height: 0px;
+    position:absolute;
+    top:2230px;
+    left:1060px;
+    text-transform: uppercase;
+    text-decoration:none;
+    color: white
+}
+
+#logic96 {
+    font-family: helveticaneue-ultralight;
+    font-size: 20px;
+    text-align:center;
+    font-weight:lighter;
+    letter-spacing: 10px;
+    line-height: 0px;
+    position:absolute;
+    top:2250px;
+    left:1060px;
+    text-transform: uppercase;
+    text-decoration:none;
+    color: white
+}
+
+#logic97 {
+    font-family: helveticaneue-ultralight;
+    font-size: 20px;
+    text-align:center;
+    font-weight:lighter;
+    letter-spacing: 10px;
+    line-height: 0px;
+    position:absolute;
+    top:2270px;
+    left:1060px;
+    text-transform: uppercase;
+    text-decoration:none;
+    color: white
+}
+
+#logic98 {
+    font-family: helveticaneue-ultralight;
+    font-size: 20px;
+    text-align:center;
+    font-weight:lighter;
+    letter-spacing: 10px;
+    line-height: 0px;
+    position:absolute;
+    top:2290px;
+    left:1060px;
+    text-transform: uppercase;
+    text-decoration:none;
+    color: white
+}
+
+#logic99 {
+    font-family: helveticaneue-ultralight;
+    font-size: 20px;
+    text-align:center;
+    font-weight:lighter;
+    letter-spacing: 10px;
+    line-height: 0px;
+    position:absolute;
+    top:2310px;
+    left:1060px;
+    text-transform: uppercase;
+    text-decoration:none;
+    color: white
+}
+
+#logic100 {
+    font-family: helveticaneue-ultralight;
+    font-size: 20px;
+    text-align:center;
+    font-weight:lighter;
+    letter-spacing: 10px;
+    line-height: 0px;
+    position:absolute;
+    top:2330px;
+    left:1060px;
+    text-transform: uppercase;
+    text-decoration:none;
+    color: white
+}
+
+
+
+
+
+
+
+
+
+
+
